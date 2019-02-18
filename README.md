@@ -10,3 +10,15 @@
 5.服务端接收资产信息实现api认证
 
 ## 逻辑：
+第一次 客户把资产信息提交到api保存到待审批表
+客户端 发资产信息
+NedStark.py   report_asset
+服务端 审批区批准
+
+第二次 客户把资产信息提交到api返回asset_id
+客户端 发资产信息
+NedStark.py   report_asset
+服务端 返回asset_id
+
+第三次 客户把变化的资产信息提交到api到正式库
+客户端 发资产信息
