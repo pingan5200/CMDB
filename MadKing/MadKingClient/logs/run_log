@@ -1,0 +1,15 @@
+2019-02-18-21:06:25	WARNING	{'AssetUpdateWarning': "Asset component [22:10:A9:20:52:41:53]'s field [sn] is not provided in reporting data "}
+2019-02-18-21:06:25	WARNING	{'AssetUpdateWarning': "Asset component [22:10:A9:20:52:41:53]'s field [ipaddress] is not provided in reporting data "}
+2019-02-18-21:06:25	WARNING	{'AssetUpdateWarning': "Asset component [22:10:A9:20:52:41:53]'s field [netmask] is not provided in reporting data "}
+2019-02-18-21:06:25	WARNING	{'AssetUpdateWarning': "Asset component [22:10:A9:20:52:41:53]'s field [bonding] is not provided in reporting data "}
+2019-02-18-21:06:25	WARNING	{'AssetUpdateWarning': "Asset component [22:14:0C:20:52:41:53]'s field [sn] is not provided in reporting data "}
+2019-02-18-21:06:25	WARNING	{'AssetUpdateWarning': "Asset component [22:14:0C:20:52:41:53]'s field [ipaddress] is not provided in reporting data "}
+2019-02-18-21:06:25	WARNING	{'AssetUpdateWarning': "Asset component [22:14:0C:20:52:41:53]'s field [netmask] is not provided in reporting data "}
+2019-02-18-21:06:25	WARNING	{'AssetUpdateWarning': "Asset component [22:14:0C:20:52:41:53]'s field [bonding] is not provided in reporting data "}
+2019-02-18-21:06:25	WARNING	{'AssetUpdateWarning': "Asset component [22:30:9C:23:E7:70:13]'s field [sn] is not provided in reporting data "}
+2019-02-18-21:06:25	WARNING	{'AssetUpdateWarning': "Asset component [22:30:9C:23:E7:70:13]'s field [bonding] is not provided in reporting data "}
+2019-02-18-21:06:25	WARNING	{'AssetUpdateWarning': "Asset component [22:00:50:56:C0:00:01]'s field [sn] is not provided in reporting data "}
+2019-02-18-21:06:25	WARNING	{'AssetUpdateWarning': "Asset component [22:00:50:56:C0:00:01]'s field [bonding] is not provided in reporting data "}
+2019-02-18-21:06:25	WARNING	{'AssetUpdateWarning': "Asset component [22:00:50:56:C0:00:08]'s field [sn] is not provided in reporting data "}
+2019-02-18-21:06:25	WARNING	{'AssetUpdateWarning': "Asset component [22:00:50:56:C0:00:08]'s field [bonding] is not provided in reporting data "}
+2019-02-18-21:06:25	WARNING	{'AssetUpdateWarning': "Asset component [00331-10000-00001-AA989 sn:00331-10000-00001-AA989]'s field [raid_type] is not provided in reporting data "}
